@@ -1,0 +1,5 @@
+plugin.description: ATUS UploadBot RTorrent API
+plugin.author: Steffen Loges
+plugin.version: 1.0.0
+rtorrent.remote: error
+plugin.help: https://github.com/SteffenLoges/atus-rutorrent/issues
